@@ -1,0 +1,88 @@
+*{
+    margin:0;
+    padding:0
+}
+
+.About-Me{
+    .Tittle-Principal{
+        margin:0;
+        padding:0;
+        justify-content: center;
+        color:#F0F8FF;
+        background-color:#280b61 10px auto;
+        font-size: 1rem;
+        position:absolute;
+        top: 90%;
+        margin-right:30px;
+        margin-left:40px;
+        font-family:sans-serif;
+        display: inline-block;
+        width:100px;
+    }
+    .second-tittle{
+        margin:0;
+        padding:0;
+        justify-content: center;
+        color:#F0F8FF;
+        background-color:#280b61 10px auto;
+        font-size: 1rem;
+        position:absolute;
+        top: 90%;
+        margin-right:30px;
+        margin-left:40px;
+        font-family:sans-serif;
+        display: inline-block;
+        width:100px;
+    }
+}
+
+.MyHardSkills{
+    margin:0;
+    padding:0;
+    justify-content: center;
+    color:#F0F8FF;
+    background-color:#280b61 10px auto;
+    font-size: 1rem;
+    position:absolute;
+    top: 90%;
+    margin-right:30px;
+    margin-left:40px;
+    font-family:sans-serif;
+    display: inline-block;
+    width:100px;
+}
+.contact{
+    margin:0;
+    padding:0;
+    justify-content: center;
+    color:#F0F8FF;
+    background-color:#280b61 10px auto;
+    font-size: 1rem;
+    position:absolute;
+    top: 90%;
+    margin-right:30px;
+    margin-left:40px;
+    font-family:sans-serif;
+    display: inline-block;
+    width:100px;
+}
+.MyHardSkills{
+    height: 100px;
+    color:#280b61;
+}
+
+.contact{
+    height:200px;
+    font-family: sans-serif;
+    margin-right:30px;
+    margin-left:40px;
+    justify-content: center;
+}
+p .final{
+    height:200px;
+    font-family: sans-serif;
+    margin-right:30px;
+    margin-left:40px;
+    justify-content: center;
+    background-color:#280b61 10px auto;
+}
