@@ -10,17 +10,6 @@ Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de i
 
 - Desenvolvimento FrontEnd
 - HTML5, CSS3, JavaScript
-- Frameworks como React.js e Vue.js
-- Design responsivo e acessibilidade web
-
-## Interesses
-
-Além do desenvolvimento de software, tenho interesse em:
-
-- Inteligência Artificial e Aprendizado de Máquina
-- Internet das Coisas (IoT)
-- Desenvolvimento Mobile
-- UX/UI Design
 
 ## Contato
 
